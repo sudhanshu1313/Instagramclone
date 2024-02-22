@@ -1,6 +1,6 @@
 
 <h1>Instagram WebApp</h1>
-![calculator](https://github.com/sudhanshu1313/Instagramclone/blob/main/instaclone.png)
+
 <p>The Instagram clone project is a MERN stack-based web app with a create post system and comments and JWT
 authenƟcaƟon react and MongoDB for storage.</p>
 <p>It replicates the core features of Instagram, user-generated content storage, user login, and backend architecture.</p>
