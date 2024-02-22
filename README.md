@@ -6,4 +6,4 @@ authenƟcaƟon react and MongoDB for storage.</p>
 <p>It replicates the core features of Instagram, user-generated content storage, user login, and backend architecture.</p>
 <h5>Tech Stack :- </h5>
 <p>React Js, Node Js, Express js, MongoDB, HTML, CSS, Bootstrap</p>
-<h5>Live Demo :- <a href=""> </a></h5>
+<h5>Live Demo :- <a href="">Instagram</a></h5>
